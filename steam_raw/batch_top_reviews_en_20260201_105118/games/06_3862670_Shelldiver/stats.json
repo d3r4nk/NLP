@@ -1,0 +1,17 @@
+{
+  "source": "steam",
+  "appid": 3862670,
+  "language": "english",
+  "pages_fetched": 5,
+  "reviews_fetched": 500,
+  "label_proxy_distribution": {
+    "positive": 498,
+    "negative": 2
+  },
+  "files": {
+    "reviews_jsonl": "reviews.jsonl",
+    "reviews_csv": "reviews.csv",
+    "stats_json": "stats.json",
+    "raw_dir": "raw/"
+  }
+}
