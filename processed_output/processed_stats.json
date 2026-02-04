@@ -1,0 +1,104 @@
+{
+  "processed_documents": 3192,
+  "empty_after_processing": 203,
+  "avg_tokens_after_tokenize": 23.68421052631579,
+  "avg_tokens_final": 23.68421052631579,
+  "processed_vocabulary_size": 8220,
+  "vocabulary_reduction_percent": 41.2605402315278,
+  "by_source": {
+    "dmx": {
+      "documents": 445,
+      "avg_tokens_after_tokenize": 11.84943820224719,
+      "avg_tokens_final": 11.84943820224719,
+      "top_10_final_tokens": [
+        [
+          "quạt",
+          140
+        ],
+        [
+          "mua",
+          100
+        ],
+        [
+          "bảo",
+          91
+        ],
+        [
+          "hành",
+          90
+        ],
+        [
+          "không",
+          89
+        ],
+        [
+          "tốt",
+          75
+        ],
+        [
+          "nước",
+          68
+        ],
+        [
+          "máy",
+          63
+        ],
+        [
+          "bị",
+          51
+        ],
+        [
+          "ok",
+          51
+        ]
+      ]
+    },
+    "steam": {
+      "documents": 2747,
+      "avg_tokens_after_tokenize": 25.60138332726611,
+      "avg_tokens_final": 25.60138332726611,
+      "top_10_final_tokens": [
+        [
+          "game",
+          2129
+        ],
+        [
+          "dungeon",
+          684
+        ],
+        [
+          "new",
+          651
+        ],
+        [
+          "doc",
+          628
+        ],
+        [
+          "like",
+          600
+        ],
+        [
+          "get",
+          588
+        ],
+        [
+          "one",
+          559
+        ],
+        [
+          "good",
+          547
+        ],
+        [
+          "hero",
+          492
+        ],
+        [
+          "enemy",
+          439
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "total_documents": 4678,
+  "documents_by_source": {
+    "steam": 4233,
+    "dmx": 445
+  },
+  "documents_by_language": {
+    "en": 4233,
+    "vi": 445
+  },
+  "missing_or_empty_raw_text": 129,
+  "avg_raw_characters": 309.07289439931594,
+  "avg_raw_words": 55.279820436083796,
+  "median_raw_words": 12.0,
+  "raw_vocabulary_size": 13994,
+  "top_20_raw_tokens": [
+    [
+      "the",
+      12089
+    ],
+    [
+      "and",
+      7266
+    ],
+    [
+      "to",
+      6559
+    ],
+    [
+      "a",
+      6337
+    ],
+    [
+      "you",
+      5438
+    ],
+    [
+      "i",
+      5235
+    ],
+    [
+      "of",
+      5002
+    ],
+    [
+      "it",
+      4941
+    ],
+    [
+      "game",
+      4585
+    ],
+    [
+      "is",
+      4300
+    ],
+    [
+      "this",
+      3252
+    ],
+    [
+      "that",
+      3103
+    ],
+    [
+      "in",
+      2674
+    ],
+    [
+      "for",
+      2261
+    ],
+    [
+      "but",
+      2159
+    ],
+    [
+      "s",
+      2020
+    ],
+    [
+      "with",
+      1926
+    ],
+    [
+      "your",
+      1755
+    ],
+    [
+      "t",
+      1544
+    ],
+    [
+      "can",
+      1494
+    ]
+  ]
+}
